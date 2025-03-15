@@ -49,3 +49,7 @@ The script uses the Pillow library to:
 3. Resize the image using high-quality Lanczos resampling
 4. Center the resized image on a 3000 x 3000 canvas
 5. Save the result with high quality settings (95% quality for JPEG)
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
