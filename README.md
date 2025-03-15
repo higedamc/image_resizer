@@ -1,6 +1,6 @@
 # Image Resizer
 
-A Python script to resize images to 3000 x 3000 pixels while preserving quality.
+A Python script to resize images to 3000 x 3000 pixels while preserving quality for Apple Podcast.
 
 ## Features
 
